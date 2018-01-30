@@ -1,0 +1,9 @@
+C:\Users\hanyu\Desktop\WangJing\WangJing\bin\Debug\WangJing.exe.config
+C:\Users\hanyu\Desktop\WangJing\WangJing\bin\Debug\WangJing.exe
+C:\Users\hanyu\Desktop\WangJing\WangJing\bin\Debug\WangJing.pdb
+C:\Users\hanyu\Desktop\WangJing\WangJing\obj\Debug\WangJing.csprojResolveAssemblyReference.cache
+C:\Users\hanyu\Desktop\WangJing\WangJing\obj\Debug\WangJing.Form1.resources
+C:\Users\hanyu\Desktop\WangJing\WangJing\obj\Debug\WangJing.Properties.Resources.resources
+C:\Users\hanyu\Desktop\WangJing\WangJing\obj\Debug\WangJing.csproj.GenerateResource.Cache
+C:\Users\hanyu\Desktop\WangJing\WangJing\obj\Debug\WangJing.exe
+C:\Users\hanyu\Desktop\WangJing\WangJing\obj\Debug\WangJing.pdb
